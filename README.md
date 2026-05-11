@@ -28,7 +28,7 @@
   <a href="mailto:Flowerf19th5@gmail.com">
     <img src="https://img.shields.io/badge/Email_1-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1"/>
   </a>
-  <a href="mailto:hoaf.n.v@gmail.com">
+  <a href="mailto:hoafa.n.v@gmail.com">
     <img src="https://img.shields.io/badge/Email_2-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2"/>
   </a>
 </p>
