@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/Flowerf19/March7">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=March7th&theme=tokyonight" alt="March7" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=March7&theme=tokyonight" alt="March7" />
   </a>
   <a href="https://github.com/Flowerf19/RAG">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight" alt="RAG" />
