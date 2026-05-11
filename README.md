@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&height=40&color=bb9af7&center=true&vCenter=true&width=800&lines=There%20is%20nothing%20in%20here...%20except%20an%20AI%20Developer.&repeat=false" alt="Typing Header" />
 </p>
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=220&lines=%3E%20neural_weights:&repeat=false" alt="Neural Weights" />
 </p>
@@ -24,7 +23,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=130&lines=%3E%20The%20Lab&repeat=false" alt="The Lab" />
 </p>
-
 <p align="left">
   <a href="https://github.com/Flowerf19/March7" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=25&color=7aa2f7&width=500&lines=%3E_%20deploy:%20March7...%20[ONLINE]&repeat=false" alt="March7 Link" />
@@ -63,7 +61,7 @@
   <a href="mailto:Flowerf19th5@gmail.com">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=25&color=7aa2f7&width=600&lines=%3E_%20protocol_03:%20Email_Primary...%20[READY]&repeat=false" alt="Email 1" />
   </a><br/>
-  <a href="mailto:hoafa.n.v@gmail.com">
+  <a href="mailto:hoaf.n.v@gmail.com">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=25&color=7aa2f7&width=600&lines=%3E_%20protocol_04:%20Email_Backup...%20[READY]&repeat=false" alt="Email 2" />
   </a>
 </p>
