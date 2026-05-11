@@ -32,4 +32,4 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&hide=html,css,tex)
 
-![Pinned Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=tên-repo-của-bạn&theme=tokyonight)
+![Pinned Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight)
