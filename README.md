@@ -31,10 +31,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
-    </td>
-    <td width="50%">
+    <td width="90%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" width="100%" />
     </td>
   </tr>
