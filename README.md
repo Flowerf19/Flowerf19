@@ -1,6 +1,4 @@
-# WELCOME TO MY PAGE 👋👋👋
-
-Hello! You are viewing the profile of an AI Developer.
+# Hello! You are viewing the profile of an AI Developer.
 
 ### 🛠️ Skills & Expertise
 
