@@ -29,13 +29,9 @@
 
 ### 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="90%">
+<p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=4&card_width=1000" width="100%" />
