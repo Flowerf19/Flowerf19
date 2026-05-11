@@ -3,9 +3,14 @@
 My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information Technology, and currently work as an **AI Engineer at Softdreams**. 
 
 ### 🛠️ Skills & Expertise
-* **AI & Domain:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt & Context Engineering.
-* **Infrastructure:** DevOps.
-* **Soft Skills:** Strategic Planning, Critical Thinking.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/LLMs%20&%20RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLMs & RAG" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-009688?style=flat-square&logo=adguard&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+</p>
 
 ### 📭 How to reach me:
 
@@ -26,11 +31,14 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 
 ### 📊 GitHub Stats
 
-![Hoa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Hoa's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" alt="Hoa's GitHub Streak" />
+</p>
 
-![Hoa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&hide=html,css,tex)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&hide=html,css,tex" alt="Top Languages" />
+</p>
 
 ### 📌 Featured Projects
 
