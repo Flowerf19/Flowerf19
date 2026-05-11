@@ -29,9 +29,19 @@
 
 ### 📊 GitHub Stats
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=6&card_width=495" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=8&card_width=1000" width="100%" />
 </p>
 
 ### 📌 Featured Projects
