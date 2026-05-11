@@ -32,4 +32,21 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&hide=html,css,tex)
 
-![Pinned Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight)
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Flowerf19/LLM_AI_CHATBOT">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=LLM_AI_CHATBOT&theme=tokyonight" alt="LLM_AI_CHATBOT" />
+  </a>
+  <a href="https://github.com/Flowerf19/RAG">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight" alt="RAG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Flowerf19/my_health_v001">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=my_health_v001&theme=tokyonight" alt="my_health_v001" />
+  </a>
+  <a href="https://github.com/Flowerf19/agents-skills">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=agents-skills&theme=tokyonight" alt="agents-skills" />
+  </a>
+</p>
