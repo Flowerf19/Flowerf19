@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=AI%20Developer%20Interface&fontSize=40&fontColor=ffffff&desc=There%20is%20nothing%20in%20here...%20except%20an%20AI%20Developer&descSize=16&descAlignY=70" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Flowerf19">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=2000&color=B897FF&center=true&vCenter=true&width=600&lines=System:+Initializing+RAG+Pipeline...;System:+Loading+Large+Language+Models...;System:+Welcome+to+The+Lab,+Hoa." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=3000&color=ffffff&center=true&vCenter=true&width=800&lines=There+is+nothing+in+here...+except+an+AI+Developer." alt="Typing Header" />
 </p>
 
 ### 📌 Knowledge Base
