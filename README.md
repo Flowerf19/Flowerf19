@@ -24,19 +24,12 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
   <a href="mailto:Flowerf19th5@gmail.com">
     <img src="https://img.shields.io/badge/Email_1-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1"/>
   </a>
-  <a href="mailto:hoafa.n.v@gmail.com">
-    <img src="https://img.shields.io/badge/Email_2-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2"/>
-  </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Hoa's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" alt="Hoa's GitHub Streak" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&hide=html,css,tex" alt="Top Languages" />
 </p>
 
