@@ -39,11 +39,6 @@
 </p>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" alt="GitHub Streak" />
 </p>
