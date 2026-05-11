@@ -5,11 +5,20 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 ### 🛠️ Skills & Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/LLMs%20&%20RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLMs & RAG" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-009688?style=flat-square&logo=adguard&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Context%20Engineering-9C27B0?style=flat-square&logo=gitkraken&logoColor=white" alt="Context Engineering" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Critical%20Thinking-E53935?style=flat-square&logo=superuser&logoColor=white" alt="Critical Thinking" />
+  <img src="https://img.shields.io/badge/Strategic%20Planning-43A047?style=flat-square&logo=trello&logoColor=white" alt="Strategic Planning" />
 </p>
 
 ### 📭 How to reach me:
@@ -29,7 +38,8 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github.com/Flowerf19/LLM_AI_CHATBOT">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
