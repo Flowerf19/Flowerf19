@@ -3,22 +3,11 @@
 ### 🛠️ Skills & Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs%20&%20RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLMs & RAG" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-009688?style=flat-square&logo=adguard&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Context%20Engineering-9C27B0?style=flat-square&logo=gitkraken&logoColor=white" alt="Context Engineering" />
-  <img src="https://img.shields.io/badge/Active%20Learning-FFB300?style=flat-square&logo=scikitlearn&logoColor=white" alt="Active Learning" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/System%20Architecture-0288D1?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Architecture" />
-  <img src="https://img.shields.io/badge/Harness%20Engineering-E65100?style=flat-square&logo=apache&logoColor=white" alt="Harness Engineering" />
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/LLMs,_RAG_%26_Active_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Core" />
+  <img src="https://img.shields.io/badge/Prompt,_Context_%26_Harness_Eng.-9C27B0?style=flat-square&logo=gitkraken&logoColor=white" alt="Engineering" />
+  <img src="https://img.shields.io/badge/DevOps_%26_System_Arch-0288D1?style=flat-square&logo=docker&logoColor=white" alt="Systems" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Critical%20Thinking-E53935?style=flat-square&logo=superuser&logoColor=white" alt="Critical Thinking" />
-  <img src="https://img.shields.io/badge/Strategic%20Planning-43A047?style=flat-square&logo=trello&logoColor=white" alt="Strategic Planning" />
+  <img src="https://img.shields.io/badge/Strategic_%26_Critical_Thinking-43A047?style=flat-square&logo=trello&logoColor=white" alt="Mindset" />
 </p>
 
 ### 📭 How to reach me:
