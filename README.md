@@ -15,6 +15,6 @@ My name is Nguyen Van Hoa. I am an AI Engineer. I am interested in the following
 
 ### 📊 GitHub Stats
 
-![Hoa's GitHub stats](https://ghrs.deno.dev/api?username=Flowerf19&show_icons=true&theme=tokyonight)
+![Hoa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://ghrs.deno.dev/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight)
