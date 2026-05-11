@@ -15,6 +15,6 @@ My name is Nguyen Van Hoa. I am an AI Engineer. I am interested in the following
 
 ### 📊 GitHub Stats
 
-![Hoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight)
+![Hoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight&cache_seconds=1800)
