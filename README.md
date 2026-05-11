@@ -1,6 +1,6 @@
 # There is nothing in here... except an AI Developer.
 
-### 🛠️ Skills & Expertise
+### 📌 Knowledge Base
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs,_RAG_%26_Active_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Core" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Strategic_%26_Critical_Thinking-43A047?style=flat-square&logo=trello&logoColor=white" alt="Mindset" />
 </p>
 
-### 📭 Access Protocols:
+### 📌 Access Protocols:
 
 <p align="left">
   <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
