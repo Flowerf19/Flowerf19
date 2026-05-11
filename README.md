@@ -32,23 +32,22 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=4&card_width=1000" width="100%" />
 </p>
-
 ### 📌 The Lab
 
 <p align="center">
   <a href="https://github.com/Flowerf19/March7">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=March7&theme=tokyonight" alt="March7" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=March7&theme=tokyonight&v=1" alt="March7" />
   </a>
   <a href="https://github.com/Flowerf19/RAG">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight" alt="RAG" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight&v=1" alt="RAG" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Flowerf19/agents-skills">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=agents-skills&theme=tokyonight" alt="agents-skills" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=agents-skills&theme=tokyonight&v=1" alt="agents-skills" />
   </a>
-    <a href="https://github.com/Flowerf19/my_health_v001">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=my_health_v001&theme=tokyonight" alt="my_health_v001" />
+  <a href="https://github.com/Flowerf19/my_health_v001">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=my_health_v001&theme=tokyonight&v=1" alt="my_health_v001" />
   </a>
 </p>
 
