@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Knowledge%20Base&height=45&fontSize=20&fontAlignY=70&fontAlignX=0" alt="Knowledge Base" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Knowledge%20Base&height=45&fontSize=20&fontAlignY=70&fontAlignX=0&v=2" alt="Knowledge Base" />
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Access%20Protocols:&height=45&fontSize=20&fontAlignY=70&fontAlignX=0" alt="Access Protocols" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Access%20Protocols:&height=45&fontSize=20&fontAlignY=70&fontAlignX=0&v=2" alt="Access Protocols" />
 </p>
 
 <p align="left">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Inside%20the%20Void&height=45&fontSize=20&fontAlignY=70&fontAlignX=0" alt="Inside the Void" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20Inside%20the%20Void&height=45&fontSize=20&fontAlignY=70&fontAlignX=0&v=2" alt="Inside the Void" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20The%20Lab&height=45&fontSize=20&fontAlignY=70&fontAlignX=0" alt="The Lab" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=📌%20The%20Lab&height=45&fontSize=20&fontAlignY=70&fontAlignX=0&v=2" alt="The Lab" />
 </p>
 
 <p align="center">
