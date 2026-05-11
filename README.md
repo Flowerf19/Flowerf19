@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=220&lines=%3E%20Knowledge%20Base&repeat=false" alt="Knowledge Base" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=220&lines=%3E%20neural_weights:&repeat=false" alt="Neural Weights" />
 </p>
 
 <p align="left">
