@@ -52,17 +52,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&color=bb9af7&width=250&lines=%3E%20Access%20Protocols:&repeat=false" alt="Access Protocols" />
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/hoaf.n.v" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:Flowerf19th5@gmail.com">
-    <img src="https://img.shields.io/badge/Email_1-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1"/>
-  </a>
-  <a href="mailto:hoafa.n.v@gmail.com">
-    <img src="https://img.shields.io/badge/Email_2-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2"/>
-  </a>
-</p>
+- `[net]` **[LinkedIn](https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409)**
+- `[net]` **[Facebook](https://www.facebook.com/hoaf.n.v)**
+- `[msg]` **[Flowerf19th5@gmail.com](mailto:Flowerf19th5@gmail.com)**
+- `[msg]` **[hoafa.n.v@gmail.com](mailto:hoafa.n.v@gmail.com)**
