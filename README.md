@@ -26,6 +26,6 @@ My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information T
 
 ### 📊 GitHub Stats
 
-![Hoa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight)
+![Hoa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Flowerf19&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&layout=compact&theme=tokyonight)
+![Hoa's GitHub Streak](
