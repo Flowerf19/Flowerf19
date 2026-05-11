@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Strategic_%26_Critical_Thinking-43A047?style=flat-square&logo=trello&logoColor=white" alt="Mindset" />
 </p>
 
-### 📭 How to reach me:
+### 📭 Access Protocols:
 
 <p align="left">
   <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
@@ -27,17 +27,13 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flowerf19&theme=tokyonight" width="100%" />
-</p>
+### 📌 Inside the Void
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=4&card_width=1000" width="100%" />
 </p>
 
-### 📌 Featured Projects
+### 📌 The Lab
 
 <p align="center">
   <a href="https://github.com/Flowerf19/LLM_AI_CHATBOT">
