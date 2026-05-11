@@ -1,4 +1,12 @@
-# There is nothing in here... except an AI Developer.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=AI%20Developer%20Interface&fontSize=40&fontColor=ffffff&desc=There%20is%20nothing%20in%20here...%20except%20an%20AI%20Developer&descSize=16&descAlignY=70" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Flowerf19">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&pause=2000&color=B897FF&center=true&vCenter=true&width=600&lines=System:+Initializing+RAG+Pipeline...;System:+Loading+Large+Language+Models...;System:+Welcome+to+The+Lab,+Hoa." alt="Typing SVG" />
+  </a>
+</p>
 
 ### 📌 Knowledge Base
 
@@ -10,7 +18,7 @@
   <img src="https://img.shields.io/badge/Strategic_%26_Critical_Thinking-43A047?style=flat-square&logo=trello&logoColor=white" alt="Mindset" />
 </p>
 
-### 📌 Access Protocols:
+### 📌 Access Protocols
 
 <p align="left">
   <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
@@ -51,4 +59,3 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=my_health_v001&theme=tokyonight&v=1" alt="my_health_v001" />
   </a>
 </p>
-
