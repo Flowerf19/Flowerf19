@@ -26,24 +26,25 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&color=7aa2f7&width=800&lines=[1/4]+Initializing+MARCH7+Module...;[1/4]+MARCH7+Online;[2/4]+Syncing+RAG+Database...;[2/4]+RAG+Interface+Ready;[3/4]+Deploying+AGENTS-SKILLS...;[3/4]+Agents+Active;[4/4]+Checking+MY_HEALTH+Systems...;[4/4]+System+Fully+Operational&repeat=false" alt="Lab Loading" />
-</p>
+  <a href="https://github.com/Flowerf19/March7" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=500&lines=%3E_%20deploy:%20March7...%20[ONLINE]&repeat=false" alt="March7 Link" />
+  </a><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&color=8c92ac&width=1000&lines=%E2%86%B3%20Twin-Soul%20Agent%20architecture%20communicating%20via%20A2A%20protocol%20with%20Redis%2FQdrant%20multi-tier%20memory%20system.&repeat=false" alt="March7 Desc" /><br/><br/>
 
-<p align="center">
-  <a href="https://github.com/Flowerf19/March7">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=March7&theme=tokyonight&v=1" alt="March7" />
-  </a>
-  <a href="https://github.com/Flowerf19/RAG">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=RAG&theme=tokyonight&v=1" alt="RAG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Flowerf19/agents-skills">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=agents-skills&theme=tokyonight&v=1" alt="agents-skills" />
-  </a>
-  <a href="https://github.com/Flowerf19/my_health_v001">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Flowerf19&repo=my_health_v001&theme=tokyonight&v=1" alt="my_health_v001" />
-  </a>
+  <a href="https://github.com/Flowerf19/RAG" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=500&lines=%3E_%20deploy:%20RAG...%20[ONLINE]&repeat=false" alt="RAG Link" />
+  </a><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&color=8c92ac&width=1000&lines=%E2%86%B3%20Advanced%20Agentic%20RAG%20pipeline%20featuring%20Intent%20Detection,%20Semantic%20Matching,%20and%20Relevance%20Scoring.&repeat=false" alt="RAG Desc" /><br/><br/>
+
+  <a href="https://github.com/Flowerf19/agents-skills" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=500&lines=%3E_%20deploy:%20agents-skills...%20[READY]&repeat=false" alt="agents-skills Link" />
+  </a><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&color=8c92ac&width=1000&lines=%E2%86%B3%20Custom%20instructions%20framework%20prioritizing%20autonomous%20reasoning,%20Tool%20Use,%20and%20cache%20optimization.&repeat=false" alt="agents-skills Desc" /><br/><br/>
+
+  <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=500&lines=%3E_%20deploy:%20my_health_v001...%20[READY]&repeat=false" alt="my_health_v001 Link" />
+  </a><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&color=8c92ac&width=1000&lines=%E2%86%B3%20Healthcare%20platform%20integrating%20body%20metrics%20(BMI%2FTDEE)%20with%20an%20AI%20nutrition%20advisor%20chatbot.&repeat=false" alt="my_health_v001 Desc" />
 </p>
 
 ---
@@ -52,7 +53,17 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&color=bb9af7&width=250&lines=%3E%20Access%20Protocols:&repeat=false" alt="Access Protocols" />
 </p>
 
-- `[net]` **[LinkedIn](https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409)**
-- `[net]` **[Facebook](https://www.facebook.com/hoaf.n.v)**
-- `[msg]` **[Flowerf19th5@gmail.com](mailto:Flowerf19th5@gmail.com)**
-- `[msg]` **[hoafa.n.v@gmail.com](mailto:hoafa.n.v@gmail.com)**
+<p align="left">
+  <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=600&lines=%3E_%20protocol_01:%20LinkedIn...%20[CONNECTED]&repeat=false" alt="LinkedIn" />
+  </a><br/>
+  <a href="https://www.facebook.com/hoaf.n.v" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=600&lines=%3E_%20protocol_02:%20Facebook...%20[CONNECTED]&repeat=false" alt="Facebook" />
+  </a><br/>
+  <a href="mailto:Flowerf19th5@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=600&lines=%3E_%20protocol_03:%20Email_Primary...%20[READY]&repeat=false" alt="Email 1" />
+  </a><br/>
+  <a href="mailto:hoafa.n.v@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&color=7aa2f7&width=600&lines=%3E_%20protocol_04:%20Email_Backup...%20[READY]&repeat=false" alt="Email 2" />
+  </a>
+</p>
