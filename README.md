@@ -1,4 +1,4 @@
-# Hello! You are viewing the profile of an AI Developer.
+# There is nothing in here... except an AI Developer.
 
 ### 🛠️ Skills & Expertise
 
