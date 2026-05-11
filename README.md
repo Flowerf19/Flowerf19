@@ -1,6 +1,11 @@
 # WELCOME TO MY PAGE 👋👋👋
 
-My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information Technology, and currently work as an AI Engineer. I am interested in the following topics: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Deep Learning.
+My name is Nguyen Van Hoa. I hold a Bachelor's degree, majoring in Information Technology, and currently work as an **AI Engineer at Softdreams**. 
+
+### 🛠️ Skills & Expertise
+* **AI & Domain:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt & Context Engineering.
+* **Infrastructure:** DevOps.
+* **Soft Skills:** Strategic Planning, Critical Thinking.
 
 ### 📭 How to reach me:
 
