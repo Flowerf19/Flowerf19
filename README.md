@@ -17,8 +17,18 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=220&lines=%3E%20Inside%20the%20Void&repeat=false" alt="Inside the Void" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Flowerf19&theme=tokyonight&hide=html,css,tex&langs_count=4&card_width=1000" width="100%" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20Python%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2077.29%25&repeat=false" alt="Python Lang" /><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=22&color=3776ab&width=420&lines=%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&repeat=false" alt="Python Bar" /><br/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20Dart%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2011.44%25&repeat=false" alt="Dart Lang" /><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=22&color=0175c2&width=420&lines=%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&repeat=false" alt="Dart Bar" /><br/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20Java%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2006.64%25&repeat=false" alt="Java Lang" /><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=22&color=b07219&width=420&lines=%20%20%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&repeat=false" alt="Java Bar" /><br/>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20PHP%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2004.63%25&repeat=false" alt="PHP Lang" /><br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=22&color=4f5d95&width=420&lines=%20%20%20%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&repeat=false" alt="PHP Bar" />
 </p>
 
 <p align="left">
@@ -67,7 +77,7 @@
   <a href="mailto:Flowerf19th5@gmail.com">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20Email_Pri...%20[READY]&repeat=false" alt="Email 1" />
   </a><br/>
-  <a href="mailto:hoaf.n.v@gmail.com">
+  <a href="mailto:hoafa.n.v@gmail.com">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=420&lines=%3E_%20Email_Bak...%20[READY]&repeat=false" alt="Email 2" />
   </a>
 </p>
