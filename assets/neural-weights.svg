@@ -1,0 +1,19 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: "Fira Code", "Cascadia Code", Consolas, monospace; }
+    .title { fill: #bb9af7; font-size: 18px; font-weight: 700; }
+    .line { fill: #7aa2f7; font-size: 16px; font-weight: 500; }
+  </style>
+
+  <text class="title" x="10" y="24">&gt; neural_weights:</text>
+
+  <text class="line" x="10" y="64">&gt;_ llm_core: LLMs, RAG, multimodal AI, agents [OK]</text>
+
+  <text class="line" x="10" y="96">&gt;_ rag_strategy: chunking, retrieval, embedding strategy [OK]</text>
+
+  <text class="line" x="10" y="128">&gt;_ prompt_context: prompt structure, context engineering [OK]</text>
+
+  <text class="line" x="10" y="160">&gt;_ agent_arch: agent skills, harness engineering, MCP, A2A [OK]</text>
+
+  <text class="line" x="10" y="192">&gt;_ llm_runtime: Triton, Docker, LM Studio, Ollama, serving [OK]</text>
+</svg>

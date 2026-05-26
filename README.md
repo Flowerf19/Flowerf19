@@ -3,25 +3,11 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=800&lines=%3E%20neural_weights%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BSYSTEM%20BOOT%20V2.0%20//%20TOKYONIGHT_KERNEL%5D&repeat=false" alt="Neural Weights" />
+  <img src="./assets/neural-weights.svg" alt="Neural Weights" />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20core%3A%20LLMs%2C%20RAG%20%26%20ActiveLrn...%20%5BOK%5D%20%20%20%20%20%20%20%20%20%20%20%20%5Barch%3A%20x64%20%7C%20layers%3A%2096%5D&repeat=false" alt="Core" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20eng%3A%20Prompt%2C%20Context%20%26%20Harness...%20%5BOK%5D%20%20%20%20%5Bpipeline%3A%20async%20%7C%20batch%3A%2032%5D&repeat=false" alt="Eng" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20sys%3A%20DevOps%2C%20SystemArch%20%26%20Py...%20%5BOK%5D%20%20%20%20%20%5Bcontainers%3A%20k8s%20%7C%20ci%3A%20github%5D&repeat=false" alt="Sys" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20mind%3A%20Strategic%20%26%20Critical...%20%5BOK%5D%20%20%20%20%5Bmode%3A%20agentic%20%7C%20safety%3A%20aligned%5D&repeat=false" alt="Mind" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=800&lines=%3E%20Inside%20the%20Void&repeat=false" alt="Inside the Void" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%3E_%20Python%20%20%2077.29%25%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%20%5Bprimary%5D&repeat=false" alt="Python" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%3E_%20Dart%20%20%20%20%2011.44%25%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%20%5Bmobile%5D&repeat=false" alt="Dart" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%3E_%20Java%20%20%20%20%2006.64%25%20%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%20%5Bbackend%5D&repeat=false" alt="Java" /><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%3E_%20PHP%20%20%20%20%20%2004.63%25%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%20%5Blegacy%5D&repeat=false" alt="PHP" />
+  <img src="./assets/inside-void.svg" alt="Inside the Void" />
 </p>
 
 <p align="left">
@@ -30,42 +16,39 @@
 
 <p align="left">
   <a href="https://github.com/Flowerf19/March7" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20March7...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BONLINE%5D&repeat=false" alt="March7" />
+    <img src="./assets/deploy-march7.svg" alt="March7" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20The%20architecture%20is%20Twin-Soul%20Agent%20%E2%80%94%20two%20independent%20agents&repeat=false" alt="March7 desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20communicating%20via%20A2A%20protocol%2C%20with%20a%20self-healing%20mechanism&repeat=false" alt="March7 desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20that%20automatically%20handles%20background%20agent%20processing.&repeat=false" alt="March7 desc 3" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20The%20architecture%20is%20Twin-Soul%20Agent%20%E2%80%94%20two%20independent%20agents%20communicating%20via%20A2A&repeat=false" alt="March7 desc 1" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20protocol%2C%20with%20a%20self-healing%20mechanism%20that%20automatically%20handles%20background%20agent&repeat=false" alt="March7 desc 2" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20processing.&repeat=false" alt="March7 desc 3" />
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/RAG" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20RAG...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BONLINE%5D&repeat=false" alt="RAG" />
+    <img src="./assets/deploy-rag.svg" alt="RAG" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20A%20comprehensive%20RAG%20system%20that%20transforms%20PDF%20documents%20into&repeat=false" alt="RAG desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20searchable%20knowledge%20bases%20using%20hybrid%20retrieval%20%28semantic%20%2B&repeat=false" alt="RAG desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20keyword%20search%29%2C%20query%20enhancement%2C%20and%20intelligent%20reranking.&repeat=false" alt="RAG desc 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20Features%20modular%20architecture%20with%20multiple%20LLM%20and%20embedding&repeat=false" alt="RAG desc 4" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20providers.&repeat=false" alt="RAG desc 5" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20A%20comprehensive%20RAG%20system%20that%20transforms%20PDF%20documents%20into%20searchable%20knowledge%20bases&repeat=false" alt="RAG desc 1" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20using%20hybrid%20retrieval%20%28semantic%20%2B%20keyword%20search%29%2C%20query%20enhancement%2C%20and%20intelligent&repeat=false" alt="RAG desc 2" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20reranking.%20Features%20modular%20architecture%20with%20multiple%20LLM%20and%20embedding%20providers.&repeat=false" alt="RAG desc 3" />
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/agents-skills" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20agents-skills...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BREADY%5D&repeat=false" alt="agents-skills" />
+    <img src="./assets/deploy-agents-skills.svg" alt="agents-skills" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20project%2C%20maintained%20by%20%40Flowerf19%2C%20contains%20a%20collection%20of&repeat=false" alt="agents-skills desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20custom%20skills%2C%20instructions%2C%20and%20prompt%20templates%20designed%20to&repeat=false" alt="agents-skills desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20enhance%20the%20capabilities%20of%20AI%20coding%20agents.&repeat=false" alt="agents-skills desc 3" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20project%2C%20maintained%20by%20%40Flowerf19%2C%20contains%20a%20collection%20of%20custom%20skills%2C&repeat=false" alt="agents-skills desc 1" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20instructions%2C%20and%20prompt%20templates%20designed%20to%20enhance%20the%20capabilities%20of%20AI%20coding&repeat=false" alt="agents-skills desc 2" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20agents.&repeat=false" alt="agents-skills desc 3" />
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20my_health_v001...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BREADY%5D&repeat=false" alt="my_health_v001" />
+    <img src="./assets/deploy-my-health-v001.svg" alt="my_health_v001" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20application%20is%20a%20comprehensive%20personal%20health%20management&repeat=false" alt="my_health_v001 desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20platform%20built%20with%20Flutter.%20It%20seamlessly%20integrates%20with&repeat=false" alt="my_health_v001 desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20wearable%20ecosystems%20and%20leverages%20Generative%20AI%20to%20provide%20users&repeat=false" alt="my_health_v001 desc 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20with%20actionable%20insights%2C%20personalized%20health%20advice%2C%20and&repeat=false" alt="my_health_v001 desc 4" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20automated%20data%20tracking.&repeat=false" alt="my_health_v001 desc 5" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20application%20is%20a%20comprehensive%20personal%20health%20management%20platform%20built%20with&repeat=false" alt="my_health_v001 desc 1" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20Flutter.%20It%20seamlessly%20integrates%20with%20wearable%20ecosystems%20and%20leverages%20Generative%20AI&repeat=false" alt="my_health_v001 desc 2" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20to%20provide%20users%20with%20actionable%20insights%2C%20personalized%20health%20advice%2C%20and%20automated&repeat=false" alt="my_health_v001 desc 3" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20data%20tracking.&repeat=false" alt="my_health_v001 desc 4" />
 </p>
 
 ---
@@ -76,15 +59,15 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20LinkedIn...%20%5BCONNECTED%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5Blinkedin.com/in/nguyen-hoa%5D&repeat=false" alt="LinkedIn" />
+    <img src="./assets/access-linkedin.svg" alt="LinkedIn" />
   </a><br/>
   <a href="https://www.facebook.com/hoaf.n.v" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20Facebook...%20%5BCONNECTED%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5Bfacebook.com/hoaf.n.v%5D&repeat=false" alt="Facebook" />
+    <img src="./assets/access-facebook.svg" alt="Facebook" />
   </a><br/>
   <a href="mailto:Flowerf19th5@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20Email_Pri...%20%5BREADY%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BFlowerf19th5%40gmail.com%5D&repeat=false" alt="Email 1" />
+    <img src="./assets/access-email-primary.svg" alt="Email 1" />
   </a><br/>
   <a href="mailto:hoaf.n.v@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&height=28&color=7aa2f7&width=800&lines=%3E_%20Email_Bak...%20%5BREADY%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5Bhoaf.n.v%40gmail.com%5D&repeat=false" alt="Email 2" />
+    <img src="./assets/access-email-backup.svg" alt="Email 2" />
   </a>
 </p>

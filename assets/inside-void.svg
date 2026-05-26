@@ -1,0 +1,26 @@
+<svg width="800" height="170" viewBox="0 0 800 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: "Fira Code", "Cascadia Code", Consolas, monospace; }
+    .title { fill: #bb9af7; font-size: 18px; font-weight: 700; }
+    .line { fill: #7aa2f7; font-size: 15px; font-weight: 500; }
+    .bar-fill { fill: #7aa2f7; }
+  </style>
+
+  <text class="title" x="10" y="24">&gt; Inside the Void</text>
+
+  <text class="line" x="10" y="70">&gt;_ Python [primary]</text>
+  <rect class="bar-fill" x="255" y="55" width="340" height="16"/>
+  <text class="line" x="612" y="70">77.29%</text>
+
+  <text class="line" x="10" y="96">&gt;_ Dart [mobile]</text>
+  <rect class="bar-fill" x="255" y="81" width="50" height="16"/>
+  <text class="line" x="322" y="96">11.44%</text>
+
+  <text class="line" x="10" y="122">&gt;_ Java [backend]</text>
+  <rect class="bar-fill" x="255" y="107" width="29" height="16"/>
+  <text class="line" x="301" y="122">06.64%</text>
+
+  <text class="line" x="10" y="148">&gt;_ PHP [legacy]</text>
+  <rect class="bar-fill" x="255" y="133" width="20" height="16"/>
+  <text class="line" x="292" y="148">04.63%</text>
+</svg>
