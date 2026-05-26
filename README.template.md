@@ -32,40 +32,28 @@
   <a href="https://github.com/Flowerf19/March7" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20March7...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BONLINE%5D&repeat=false" alt="March7" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20The%20architecture%20is%20Twin-Soul%20Agent%20%E2%80%94%20two%20independent%20agents&repeat=false" alt="March7 desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20communicating%20via%20A2A%20protocol%2C%20with%20a%20self-healing%20mechanism&repeat=false" alt="March7 desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20that%20automatically%20handles%20background%20agent%20processing.&repeat=false" alt="March7 desc 3" />
+{{MARCH7_DESC_BLOCK}}
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/RAG" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20RAG...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BONLINE%5D&repeat=false" alt="RAG" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20A%20comprehensive%20RAG%20system%20that%20transforms%20PDF%20documents%20into&repeat=false" alt="RAG desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20searchable%20knowledge%20bases%20using%20hybrid%20retrieval%20%28semantic%20%2B&repeat=false" alt="RAG desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20keyword%20search%29%2C%20query%20enhancement%2C%20and%20intelligent%20reranking.&repeat=false" alt="RAG desc 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20Features%20modular%20architecture%20with%20multiple%20LLM%20and%20embedding&repeat=false" alt="RAG desc 4" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20providers.&repeat=false" alt="RAG desc 5" />
+{{RAG_DESC_BLOCK}}
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/agents-skills" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20agents-skills...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BREADY%5D&repeat=false" alt="agents-skills" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20project%2C%20maintained%20by%20%40Flowerf19%2C%20contains%20a%20collection%20of&repeat=false" alt="agents-skills desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20custom%20skills%2C%20instructions%2C%20and%20prompt%20templates%20designed%20to&repeat=false" alt="agents-skills desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20enhance%20the%20capabilities%20of%20AI%20coding%20agents.&repeat=false" alt="agents-skills desc 3" />
+{{AGENTS_SKILLS_DESC_BLOCK}}
 </p>
 
 <p align="left">
   <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&height=28&color=bb9af7&width=800&lines=%3E_%20deploy%3A%20my_health_v001...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BREADY%5D&repeat=false" alt="my_health_v001" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20application%20is%20a%20comprehensive%20personal%20health%20management&repeat=false" alt="my_health_v001 desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20platform%20built%20with%20Flutter.%20It%20seamlessly%20integrates%20with&repeat=false" alt="my_health_v001 desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20wearable%20ecosystems%20and%20leverages%20Generative%20AI%20to%20provide%20users&repeat=false" alt="my_health_v001 desc 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20with%20actionable%20insights%2C%20personalized%20health%20advice%2C%20and&repeat=false" alt="my_health_v001 desc 4" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20automated%20data%20tracking.&repeat=false" alt="my_health_v001 desc 5" />
+{{MY_HEALTH_V001_DESC_BLOCK}}
 </p>
 
 ---
