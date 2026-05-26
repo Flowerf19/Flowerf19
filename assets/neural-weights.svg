@@ -1,19 +1,70 @@
-<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="198" viewBox="0 0 800 198" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: "Fira Code", "Cascadia Code", Consolas, monospace; }
     .title { fill: #bb9af7; font-size: 18px; font-weight: 700; }
     .line { fill: #7aa2f7; font-size: 16px; font-weight: 500; }
+    .ok { fill: #7aa2f7; font-size: 16px; font-weight: 500; }
   </style>
 
-  <text class="title" x="10" y="24">&gt; neural_weights:</text>
+  <defs>
+    <clipPath id="title-reveal">
+      <rect x="0" y="0" width="800" height="32">
+        <animate attributeName="width" from="0" to="800" dur="0.75s" begin="0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-1">
+      <rect x="0" y="44" width="800" height="26">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-2">
+      <rect x="0" y="76" width="800" height="26">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-3">
+      <rect x="0" y="108" width="800" height="26">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-4">
+      <rect x="0" y="140" width="800" height="26">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-5">
+      <rect x="0" y="172" width="800" height="26">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-  <text class="line" x="10" y="64">&gt;_ llm_core: LLMs, RAG, multimodal AI, agents [OK]</text>
+  <g clip-path="url(#title-reveal)">
+    <text class="title" x="10" y="24">&gt; neural_weights:</text>
+  </g>
 
-  <text class="line" x="10" y="96">&gt;_ rag_strategy: chunking, retrieval, embedding strategy [OK]</text>
+  <g clip-path="url(#row-1)">
+    <text class="line" x="10" y="64">&gt;_ llm_core: LLMs, RAG, multimodal AI, agents</text>
+    <text class="ok" x="782" y="64" text-anchor="end">[OK]</text>
+  </g>
 
-  <text class="line" x="10" y="128">&gt;_ prompt_context: prompt structure, context engineering [OK]</text>
+  <g clip-path="url(#row-2)">
+    <text class="line" x="10" y="96">&gt;_ rag_strategy: chunking, retrieval, embedding strategy</text>
+    <text class="ok" x="782" y="96" text-anchor="end">[OK]</text>
+  </g>
 
-  <text class="line" x="10" y="160">&gt;_ agent_arch: agent skills, harness engineering, MCP, A2A [OK]</text>
+  <g clip-path="url(#row-3)">
+    <text class="line" x="10" y="128">&gt;_ prompt_context: prompt structure, context engineering</text>
+    <text class="ok" x="782" y="128" text-anchor="end">[OK]</text>
+  </g>
 
-  <text class="line" x="10" y="192">&gt;_ llm_runtime: Triton, Docker, LM Studio, Ollama, serving [OK]</text>
+  <g clip-path="url(#row-4)">
+    <text class="line" x="10" y="160">&gt;_ agent_arch: agent skills, harness engineering, MCP, A2A</text>
+    <text class="ok" x="782" y="160" text-anchor="end">[OK]</text>
+  </g>
+
+  <g clip-path="url(#row-5)">
+    <text class="line" x="10" y="192">&gt;_ llm_runtime: Triton, Docker, LM Studio, Ollama, serving</text>
+    <text class="ok" x="782" y="192" text-anchor="end">[OK]</text>
+  </g>
 </svg>
