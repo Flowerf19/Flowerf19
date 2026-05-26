@@ -1,26 +1,54 @@
-<svg width="800" height="170" viewBox="0 0 800 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="118" viewBox="0 0 800 118" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: "Fira Code", "Cascadia Code", Consolas, monospace; }
-    .title { fill: #bb9af7; font-size: 18px; font-weight: 700; }
     .line { fill: #7aa2f7; font-size: 15px; font-weight: 500; }
     .bar-fill { fill: #7aa2f7; }
   </style>
 
-  <text class="title" x="10" y="24">&gt; Inside the Void</text>
+  <defs>
+    <clipPath id="row-python">
+      <rect x="0" y="0" width="800" height="28">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-dart">
+      <rect x="0" y="26" width="800" height="28">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.25s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-java">
+      <rect x="0" y="52" width="800" height="28">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row-php">
+      <rect x="0" y="78" width="800" height="28">
+        <animate attributeName="width" from="0" to="800" dur="0.9s" begin="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-  <text class="line" x="10" y="70">&gt;_ Python [primary]</text>
-  <rect class="bar-fill" x="255" y="55" width="340" height="16"/>
-  <text class="line" x="612" y="70">77.29%</text>
+  <g clip-path="url(#row-python)">
+    <text class="line" x="10" y="20">&gt;_ Python [primary]</text>
+    <rect class="bar-fill" x="255" y="5" width="340" height="16"/>
+    <text class="line" x="612" y="20">77.29%</text>
+  </g>
 
-  <text class="line" x="10" y="96">&gt;_ Dart [mobile]</text>
-  <rect class="bar-fill" x="255" y="81" width="50" height="16"/>
-  <text class="line" x="322" y="96">11.44%</text>
+  <g clip-path="url(#row-dart)">
+    <text class="line" x="10" y="46">&gt;_ Dart [mobile]</text>
+    <rect class="bar-fill" x="255" y="31" width="50" height="16"/>
+    <text class="line" x="322" y="46">11.44%</text>
+  </g>
 
-  <text class="line" x="10" y="122">&gt;_ Java [backend]</text>
-  <rect class="bar-fill" x="255" y="107" width="29" height="16"/>
-  <text class="line" x="301" y="122">06.64%</text>
+  <g clip-path="url(#row-java)">
+    <text class="line" x="10" y="72">&gt;_ Java [backend]</text>
+    <rect class="bar-fill" x="255" y="57" width="29" height="16"/>
+    <text class="line" x="301" y="72">06.64%</text>
+  </g>
 
-  <text class="line" x="10" y="148">&gt;_ PHP [legacy]</text>
-  <rect class="bar-fill" x="255" y="133" width="20" height="16"/>
-  <text class="line" x="292" y="148">04.63%</text>
+  <g clip-path="url(#row-php)">
+    <text class="line" x="10" y="98">&gt;_ PHP [legacy]</text>
+    <rect class="bar-fill" x="255" y="83" width="20" height="16"/>
+    <text class="line" x="292" y="98">04.63%</text>
+  </g>
 </svg>
