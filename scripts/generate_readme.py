@@ -15,7 +15,7 @@ from xml.sax.saxutils import escape
 
 USER = "Flowerf19"
 REPOS = ["March7", "RAG", "agents-skills", "another-brain", "my_health_v001"]
-LINE_WIDTH = 88  # max chars per desc line (fits 800px at 15px Fira Code)
+LINE_WIDTH = 80  # max chars per desc line (85 incl. prefix, ~768px at 15px Fira Code)
 FONT = "'Fira Code','Cascadia Code',Consolas,monospace"
 GEN_DIR = "assets/gen"
 
