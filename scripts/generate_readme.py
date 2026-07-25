@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 USER = "Flowerf19"
-REPOS = ["March7", "RAG", "agents-skills", "my_health_v001"]
+REPOS = ["March7", "RAG", "agents-skills", "another-brain", "my_health_v001"]
 LINE_WIDTH = 88  # chars per wrapped line (fits within typing-svg width=800)
 
 ROOT = Path(__file__).resolve().parent.parent

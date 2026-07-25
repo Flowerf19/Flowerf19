@@ -39,6 +39,13 @@
 </p>
 
 <p align="left">
+  <a href="https://github.com/Flowerf19/another-brain" target="_blank">
+    <img src="./assets/deploy-another-brain.svg" alt="another-brain" />
+  </a><br/>
+{{ANOTHER_BRAIN_DESC_BLOCK}}
+</p>
+
+<p align="left">
   <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
     <img src="./assets/deploy-my-health-v001.svg" alt="my_health_v001" />
   </a><br/>
