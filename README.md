@@ -54,10 +54,8 @@
   <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
     <img src="./assets/deploy-my-health-v001.svg" alt="my_health_v001" />
   </a><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20This%20application%20is%20a%20comprehensive%20personal%20health%20management%20platform%20built%20with&repeat=false" alt="my_health_v001 desc 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20Flutter.%20It%20seamlessly%20integrates%20with%20wearable%20ecosystems%20and%20leverages%20Generative%20AI&repeat=false" alt="my_health_v001 desc 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20to%20provide%20users%20with%20actionable%20insights%2C%20personalized%20health%20advice%2C%20and%20automated&repeat=false" alt="my_health_v001 desc 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20data%20tracking.&repeat=false" alt="my_health_v001 desc 4" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%E2%86%B3%20Personal%20health%20app%20in%20Flutter%20%E2%80%94%20wearable%20data%20sync%2C%20GenAI-powered%20insights%2C%20automated&repeat=false" alt="my_health_v001 desc 1" /><br/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&height=26&color=7aa2f7&width=800&lines=%20%20%20%20%20tracking.&repeat=false" alt="my_health_v001 desc 2" />
 </p>
 
 ---
