@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&height=65&color=bb9af7&center=true&vCenter=true&width=420&lines=There%20is%20nothing%20in%20here...;...except%20an%20AI%20Developer.&repeat=false" alt="Typing Header" />
+{{HEADER_MAIN_BLOCK}}
 </p>
 
 <p align="left">
@@ -7,14 +7,14 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=800&lines=%3E%20Inside%20the%20Void&repeat=false" alt="Inside the Void" />
+{{HEADER_VOID_BLOCK}}
 </p>
 
 <p align="left">
   <img src="./assets/inside-void.svg" alt="Inside the Void Chart" />
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=800&lines=%3E%20The%20Lab&repeat=false" alt="The Lab" />
+{{HEADER_LAB_BLOCK}}
 </p>
 
 <p align="left">
@@ -55,7 +55,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&height=30&color=bb9af7&width=800&lines=%3E%20Access%20Protocols:&repeat=false" alt="Access Protocols" />
+{{HEADER_ACCESS_BLOCK}}
 </p>
 
 <p align="left">

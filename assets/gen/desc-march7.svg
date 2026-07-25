@@ -1,0 +1,5 @@
+<svg width="800" height="52" viewBox="0 0 800 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>text{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:15px;font-weight:500;fill:#7aa2f7;clip-path:inset(0 100% 0 0);animation-name:type;animation-fill-mode:forwards;}@keyframes type{to{clip-path:inset(0 0 0 0);}}.l0{animation-duration:1.98s;animation-delay:0.00s;animation-timing-function:steps(90);}.l1{animation-duration:1.47s;animation-delay:2.13s;animation-timing-function:steps(67);}</style>
+  <text class="l0" x="0" y="19" xml:space="preserve">   ↳ Twin-Soul Agent architecture — two independent agents communicating via A2A protocol,</text>
+  <text class="l1" x="0" y="45" xml:space="preserve">     with a self-healing mechanism for background agent processing.</text>
+</svg>

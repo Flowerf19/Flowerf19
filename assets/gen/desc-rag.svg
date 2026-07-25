@@ -1,0 +1,5 @@
+<svg width="800" height="52" viewBox="0 0 800 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>text{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:15px;font-weight:500;fill:#7aa2f7;clip-path:inset(0 100% 0 0);animation-name:type;animation-fill-mode:forwards;}@keyframes type{to{clip-path:inset(0 0 0 0);}}.l0{animation-duration:2.05s;animation-delay:0.00s;animation-timing-function:steps(93);}.l1{animation-duration:1.63s;animation-delay:2.20s;animation-timing-function:steps(74);}</style>
+  <text class="l0" x="0" y="19" xml:space="preserve">   ↳ RAG system for PDF documents: hybrid retrieval (semantic + BM25), query enhancement, and</text>
+  <text class="l1" x="0" y="45" xml:space="preserve">     intelligent reranking. Modular, multi-provider LLM/embedding support.</text>
+</svg>
