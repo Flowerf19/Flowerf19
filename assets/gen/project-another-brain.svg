@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="295"
+      viewBox="0 0 800 295" role="img" aria-labelledby="title desc">
+      <title id="title">Another Brain</title><desc id="desc">Shared, local memory for AI coding agents. SQLite, full-text and vector search, local ONNX embeddings, and a diary that expires unless reinforced.</desc>
+      <defs><pattern id="lines" width="800" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H800" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="799" height="294" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="798" height="293" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V273" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><text x="48" y="38" font-size="14" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >Memory for coding agents</text><text x="752" y="39" font-size="13" fill="#82705c" font-weight="400" text-anchor="end" >02</text><text x="48" y="85" font-size="35" fill="#48372b" font-weight="400" text-anchor="start" >Another Brain</text><text x="48" y="133" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >Shared, local memory for AI coding agents. SQLite, full-text</text><text x="48" y="164" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >and vector search, local ONNX embeddings, and a diary that</text><text x="48" y="195" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >expires unless reinforced.</text><path d="M48 231 H752" stroke="#ddc7a8"/><text x="48" y="259" font-size="15" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >Embedded MCP · Local ONNX embeddings</text></g>
+    </svg>

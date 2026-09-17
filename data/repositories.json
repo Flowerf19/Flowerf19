@@ -1,0 +1,27 @@
+{
+  "March7": {
+    "description": "Twin-Soul Agent architecture — two independent agents communicating via A2A protocol, with a self-healing mechanism for background agent processing.",
+    "html_url": "https://github.com/Flowerf19/March7",
+    "language": "Python"
+  },
+  "RAG": {
+    "description": "RAG system for PDF documents: hybrid retrieval (semantic + BM25), query enhancement, and intelligent reranking. Modular, multi-provider LLM/embedding support.",
+    "html_url": "https://github.com/Flowerf19/RAG",
+    "language": "Python"
+  },
+  "agents-skills": {
+    "description": "Custom skills, instructions, and prompt templates for AI coding agents (Claude Code, Kimi, etc.).",
+    "html_url": "https://github.com/Flowerf19/agents-skills",
+    "language": null
+  },
+  "another-brain": {
+    "description": "Long-term memory your AI coding agents actually share. One brain, many agents — standalone embedded MCP server: SQLite + FTS5 + vector hybrid search, local ONNX embeddings, self-expiring diary. No server, container, or daemon.",
+    "html_url": "https://github.com/Flowerf19/another-brain",
+    "language": "Python"
+  },
+  "thyca-ai": {
+    "description": null,
+    "html_url": "https://github.com/Flowerf19/thyca-ai",
+    "language": "Python"
+  }
+}

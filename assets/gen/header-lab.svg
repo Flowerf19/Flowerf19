@@ -1,4 +1,0 @@
-<svg width="800" height="30" viewBox="0 0 800 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>text{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:18px;font-weight:700;fill:#bb9af7;clip-path:inset(0 100% 0 0);animation-name:type;animation-fill-mode:forwards;}@keyframes type{to{clip-path:inset(0 0 0 0);}}.l0{animation-duration:0.41s;animation-delay:0.00s;animation-timing-function:steps(9);}</style>
-  <text class="l0" x="0" y="22" xml:space="preserve">&gt; The Lab</text>
-</svg>

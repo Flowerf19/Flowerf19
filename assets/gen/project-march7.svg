@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="295"
+      viewBox="0 0 800 295" role="img" aria-labelledby="title desc">
+      <title id="title">March7 &amp; Evernight</title><desc id="desc">A Discord assistant with two independent agents connected over A2A. Shared memory and background consolidation; the self-heal framework is still in development.</desc>
+      <defs><pattern id="lines" width="800" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H800" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="799" height="294" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="798" height="293" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V273" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><text x="48" y="38" font-size="14" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >Two agents, a shared memory</text><text x="752" y="39" font-size="13" fill="#82705c" font-weight="400" text-anchor="end" >03</text><text x="48" y="85" font-size="35" fill="#48372b" font-weight="400" text-anchor="start" >March7 &amp; Evernight</text><text x="48" y="133" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >A Discord assistant with two independent agents connected</text><text x="48" y="164" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >over A2A. Shared memory and background consolidation; the</text><text x="48" y="195" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >self-heal framework is still in development.</text><path d="M48 231 H752" stroke="#ddc7a8"/><text x="48" y="259" font-size="15" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >Discord · A2A · Three-tier memory</text></g>
+    </svg>

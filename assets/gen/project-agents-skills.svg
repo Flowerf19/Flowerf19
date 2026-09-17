@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="295"
+      viewBox="0 0 800 295" role="img" aria-labelledby="title desc">
+      <title id="title">Agent Skills</title><desc id="desc">Reusable skills, instructions, and prompt templates for AI coding agents: planning, implementation, debugging, review, and architecture documentation.</desc>
+      <defs><pattern id="lines" width="800" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H800" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="799" height="294" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="798" height="293" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V273" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><text x="48" y="38" font-size="14" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >A working toolkit</text><text x="752" y="39" font-size="13" fill="#82705c" font-weight="400" text-anchor="end" >05</text><text x="48" y="85" font-size="35" fill="#48372b" font-weight="400" text-anchor="start" >Agent Skills</text><text x="48" y="133" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >Reusable skills, instructions, and prompt templates for AI</text><text x="48" y="164" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >coding agents: planning, implementation, debugging, review,</text><text x="48" y="195" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >and architecture documentation.</text><path d="M48 231 H752" stroke="#ddc7a8"/><text x="48" y="259" font-size="15" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >Agent Skills · Context engineering</text></g>
+    </svg>
