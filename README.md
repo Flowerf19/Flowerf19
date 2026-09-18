@@ -1,74 +1,107 @@
+<!-- Generated from README.template.md and profile.json; run python scripts/generate_readme.py. -->
+
 <p align="center">
-  <img src="./assets/gen/header-main.svg" alt="There is nothing in here... except an AI Developer." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/cover-mobile.svg">
+  <img src="./assets/gen/cover.svg" width="800" alt="Nguyễn Hoà — AI engineer. I build personal assistants, agent memory, and retrieval tools — with room for a little curiosity.">
+</picture>
 </p>
 
-<p align="left">
-  <img src="./assets/neural-weights.svg" alt="Neural Weights" />
+<p align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/focus-mobile.svg">
+  <img src="./assets/gen/focus.svg" width="800" alt="Areas of work: Agents: Small loops, useful tools, MCP, and A2A.; Memory &amp; retrieval: Context, hybrid search, embeddings, and reranking.; Local inference: GGUF experiments, LM Studio, and practical benchmarks.; Craft: Python, developer skills, and thoughtful interfaces.">
+</picture>
 </p>
 
-<p align="left">
-  <img src="./assets/gen/header-void.svg" alt="Inside the Void" />
+<p align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/projects-heading-mobile.svg">
+  <img src="./assets/gen/projects-heading.svg" width="800" alt="Selected projects">
+</picture>
 </p>
 
-<p align="left">
-  <img src="./assets/inside-void.svg" alt="Inside the Void Chart" />
-</p>
-<p align="left">
-  <img src="./assets/gen/header-lab.svg" alt="The Lab" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Flowerf19/March7" target="_blank">
-    <img src="./assets/deploy-march7.svg" alt="March7" />
-  </a><br/>
-    <img src="./assets/gen/desc-march7.svg" alt="March7 description" />
+<p align="center">
+<a href="https://github.com/Flowerf19/thyca-ai">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/project-thyca-ai-mobile.svg">
+  <img src="./assets/gen/project-thyca-ai.svg" width="800" alt="Thyca — A personal assistant harness for the terminal and a local WebUI. One agent loop, tools, skills, and MCP; Markdown memory with SQLite lexical search.">
+</picture>
+</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Flowerf19/RAG" target="_blank">
-    <img src="./assets/deploy-rag.svg" alt="RAG" />
-  </a><br/>
-    <img src="./assets/gen/desc-rag.svg" alt="RAG description" />
+<p align="center">
+<a href="https://github.com/Flowerf19/another-brain">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/project-another-brain-mobile.svg">
+  <img src="./assets/gen/project-another-brain.svg" width="800" alt="Another Brain — Shared, local memory for AI coding agents. SQLite, full-text and vector search, local ONNX embeddings, and a diary that expires unless reinforced.">
+</picture>
+</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Flowerf19/agents-skills" target="_blank">
-    <img src="./assets/deploy-agents-skills.svg" alt="agents-skills" />
-  </a><br/>
-    <img src="./assets/gen/desc-agents-skills.svg" alt="agents-skills description" />
+<p align="center">
+<a href="https://github.com/Flowerf19/March7">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/project-march7-mobile.svg">
+  <img src="./assets/gen/project-march7.svg" width="800" alt="March7 &amp; Evernight — A Discord assistant with two independent agents connected over A2A. Shared memory and background consolidation; the self-heal framework is still in development.">
+</picture>
+</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Flowerf19/another-brain" target="_blank">
-    <img src="./assets/deploy-another-brain.svg" alt="another-brain" />
-  </a><br/>
-    <img src="./assets/gen/desc-another-brain.svg" alt="another-brain description" />
+<p align="center">
+<a href="https://github.com/Flowerf19/RAG">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/project-rag-mobile.svg">
+  <img src="./assets/gen/project-rag.svg" width="800" alt="RAG — RAG system for PDF documents: hybrid retrieval (semantic + BM25), query enhancement, and intelligent reranking. Modular, multi-provider LLM/embedding support.">
+</picture>
+</a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Flowerf19/my_health_v001" target="_blank">
-    <img src="./assets/deploy-my-health-v001.svg" alt="my_health_v001" />
-  </a><br/>
-    <img src="./assets/gen/desc-my-health-v001.svg" alt="my_health_v001 description" />
+<p align="center">
+<a href="https://github.com/Flowerf19/agents-skills">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/project-agents-skills-mobile.svg">
+  <img src="./assets/gen/project-agents-skills.svg" width="800" alt="Agent Skills — Reusable skills, instructions, and prompt templates for AI coding agents: planning, implementation, debugging, review, and architecture documentation.">
+</picture>
+</a>
 </p>
 
----
-
-<p align="left">
-  <img src="./assets/gen/header-access.svg" alt="Access Protocols" />
+<p align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/gen/contact-heading-mobile.svg">
+  <img src="./assets/gen/contact-heading.svg" width="800" alt="Contact Nguyễn Hoà">
+</picture>
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409" target="_blank">
-    <img src="./assets/access-linkedin.svg" alt="LinkedIn" />
-  </a><br/>
-  <a href="https://www.facebook.com/hoaf.n.v" target="_blank">
-    <img src="./assets/access-facebook.svg" alt="Facebook" />
-  </a><br/>
-  <a href="mailto:Flowerf19th5@gmail.com">
-    <img src="./assets/access-email-primary.svg" alt="Email 1" />
-  </a><br/>
-  <a href="mailto:hoaf.n.v@gmail.com">
-    <img src="./assets/access-email-backup.svg" alt="Email 2" />
-  </a>
-</p>
+<p align="center"><a href="https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409">LinkedIn</a> &nbsp; · &nbsp; <a href="https://www.facebook.com/hoaf.n.v">Facebook</a><br><a href="mailto:Flowerf19th5@gmail.com">Flowerf19th5@gmail.com</a> &nbsp; · &nbsp; <a href="mailto:hoaf.n.v@gmail.com">hoaf.n.v@gmail.com</a></p>
+
+<details>
+<summary>Read the notebook as text</summary>
+
+### Nguyễn Hoà · AI engineer
+
+I build personal assistants, agent memory, and retrieval tools — with room for a little curiosity.
+
+### Areas of work
+
+- **Agents:** Small loops, useful tools, MCP, and A2A.
+
+- **Memory & retrieval:** Context, hybrid search, embeddings, and reranking.
+
+- **Local inference:** GGUF experiments, LM Studio, and practical benchmarks.
+
+- **Craft:** Python, developer skills, and thoughtful interfaces.
+
+### Selected projects
+
+- **[Thyca](https://github.com/Flowerf19/thyca-ai):** A personal assistant harness for the terminal and a local WebUI. One agent loop, tools, skills, and MCP; Markdown memory with SQLite lexical search.
+
+- **[Another Brain](https://github.com/Flowerf19/another-brain):** Shared, local memory for AI coding agents. SQLite, full-text and vector search, local ONNX embeddings, and a diary that expires unless reinforced.
+
+- **[March7 & Evernight](https://github.com/Flowerf19/March7):** A Discord assistant with two independent agents connected over A2A. Shared memory and background consolidation; the self-heal framework is still in development.
+
+- **[RAG](https://github.com/Flowerf19/RAG):** RAG system for PDF documents: hybrid retrieval (semantic + BM25), query enhancement, and intelligent reranking. Modular, multi-provider LLM/embedding support.
+
+- **[Agent Skills](https://github.com/Flowerf19/agents-skills):** Reusable skills, instructions, and prompt templates for AI coding agents: planning, implementation, debugging, review, and architecture documentation.
+
+</details>

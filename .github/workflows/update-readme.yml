@@ -8,15 +8,41 @@ on:
     branches: [main]
     paths:
       - README.template.md
+      - profile.json
       - scripts/generate_readme.py
+      - scripts/notebook_svg.py
+      - .github/workflows/update-readme.yml
+  pull_request:
+    paths:
+      - README.md
+      - README.template.md
+      - profile.json
+      - data/repositories.json
+      - assets/gen/**
+      - scripts/**
       - .github/workflows/update-readme.yml
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  update:
+  check:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify profile output
+        run: |
+          python -m unittest discover -s scripts -p 'test_*.py'
+          python scripts/generate_readme.py --offline --check
+  update:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,10 +54,10 @@ jobs:
         run: python scripts/generate_readme.py
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
+          if [[ -n "$(git status --porcelain -- README.md assets/gen data/repositories.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
+            git add README.md assets/gen data/repositories.json
             git commit -m "chore(readme): refresh project descriptions"
             git push
           else

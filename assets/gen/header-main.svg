@@ -1,5 +1,0 @@
-<svg width="420" height="66" viewBox="0 0 420 66" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>text{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:22px;font-weight:700;fill:#bb9af7;clip-path:inset(0 100% 0 0);animation-name:type;animation-fill-mode:forwards;}@keyframes type{to{clip-path:inset(0 0 0 0);}}.l0{animation-duration:1.35s;animation-delay:0.00s;animation-timing-function:steps(27);}.l1{animation-duration:1.30s;animation-delay:1.50s;animation-timing-function:steps(26);}</style>
-  <text class="l0" x="210" y="24" text-anchor="middle" xml:space="preserve">There is nothing in here...</text>
-  <text class="l1" x="210" y="57" text-anchor="middle" xml:space="preserve">...except an AI Developer.</text>
-</svg>

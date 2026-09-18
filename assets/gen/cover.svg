@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="383"
+      viewBox="0 0 800 383" role="img" aria-labelledby="title desc">
+      <title id="title">Nguyễn Hoà — A notebook of useful AI.</title><desc id="desc">I build personal assistants, agent memory, and retrieval tools — with room for a little curiosity.</desc>
+      <defs><pattern id="lines" width="800" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H800" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="799" height="382" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="798" height="381" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V361" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><g transform="translate(643 58) scale(1.0)" opacity="0.19"
+      fill="none" stroke="#a65c43" stroke-width="1.5" stroke-linecap="round">
+      <path d="M8 176 Q45 94 102 9 C110 54 92 96 64 116 Q45 130 29 137"/>
+      <path d="M23 145 Q22 82 102 9 M27 132 L61 113 M33 116 L74 96
+        M42 97 L86 77 M52 78 L94 58 M64 59 L100 37
+        M30 125 L26 101 M39 104 L37 80 M49 82 L49 63 M62 62 L64 44"/>
+    </g><text x="48" y="43" font-size="12" fill="#a65c43" font-weight="400" text-anchor="start" >THE NOTEBOOK OF</text><text x="48" y="110" font-size="58" fill="#48372b" font-weight="400" text-anchor="start" >Nguyễn Hoà</text><text x="48" y="149" font-size="18" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >AI engineer · Hanoi, Vietnam</text><text x="48" y="205" font-size="30" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >A notebook of useful AI.</text><text x="48" y="247" font-size="21" fill="#48372b" font-weight="400" text-anchor="start" >I build personal assistants, agent memory, and</text><text x="48" y="278" font-size="21" fill="#48372b" font-weight="400" text-anchor="start" >retrieval tools — with room for a little</text><text x="48" y="309" font-size="21" fill="#48372b" font-weight="400" text-anchor="start" >curiosity.</text><text x="48" y="359" font-size="14" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >@Flowerf19</text></g>
+    </svg>

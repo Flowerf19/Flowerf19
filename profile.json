@@ -1,0 +1,91 @@
+{
+  "name": "Nguyễn Hoà",
+  "handle": "Flowerf19",
+  "role": "AI engineer",
+  "location": "Hanoi, Vietnam",
+  "headline": "A notebook of useful AI.",
+  "intro": "I build personal assistants, agent memory, and retrieval tools — with room for a little curiosity.",
+  "focus": [
+    [
+      "Agents",
+      "Small loops, useful tools, MCP, and A2A."
+    ],
+    [
+      "Memory & retrieval",
+      "Context, hybrid search, embeddings, and reranking."
+    ],
+    [
+      "Local inference",
+      "GGUF experiments, LM Studio, and practical benchmarks."
+    ],
+    [
+      "Craft",
+      "Python, developer skills, and thoughtful interfaces."
+    ]
+  ],
+  "projects": [
+    {
+      "repo": "thyca-ai",
+      "title": "Thyca",
+      "category": "Personal assistant",
+      "summary": "A personal assistant harness for the terminal and a local WebUI. One agent loop, tools, skills, and MCP; Markdown memory with SQLite lexical search.",
+      "curated": true,
+      "note": "CLI + local WebUI · Markdown + FTS5",
+      "source": "https://github.com/Flowerf19/thyca-ai/blob/main/README.md"
+    },
+    {
+      "repo": "another-brain",
+      "title": "Another Brain",
+      "category": "Memory for coding agents",
+      "summary": "Shared, local memory for AI coding agents. SQLite, full-text and vector search, local ONNX embeddings, and a diary that expires unless reinforced.",
+      "curated": true,
+      "note": "Embedded MCP · Local ONNX embeddings",
+      "source": "https://github.com/Flowerf19/another-brain/blob/main/README.md"
+    },
+    {
+      "repo": "March7",
+      "title": "March7 & Evernight",
+      "category": "Two agents, a shared memory",
+      "summary": "A Discord assistant with two independent agents connected over A2A. Shared memory and background consolidation; the self-heal framework is still in development.",
+      "curated": true,
+      "note": "Discord · A2A · Three-tier memory",
+      "source": "https://github.com/Flowerf19/March7/blob/main/README.md"
+    },
+    {
+      "repo": "RAG",
+      "title": "RAG",
+      "category": "From documents to knowledge",
+      "summary": "PDF retrieval with semantic search and BM25, query enhancement, and reranking. A modular stack with multiple LLM and embedding providers.",
+      "note": "PDFs · Hybrid retrieval · Reranking",
+      "source": "https://github.com/Flowerf19/RAG/blob/main/README.md"
+    },
+    {
+      "repo": "agents-skills",
+      "title": "Agent Skills",
+      "category": "A working toolkit",
+      "summary": "Reusable skills, instructions, and prompt templates for AI coding agents: planning, implementation, debugging, review, and architecture documentation.",
+      "curated": true,
+      "note": "Agent Skills · Context engineering",
+      "source": "https://github.com/Flowerf19/agents-skills/blob/main/README.md"
+    }
+  ],
+  "notes": [],
+  "contacts": [
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0-b67a15409"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/hoaf.n.v"
+    },
+    {
+      "name": "Flowerf19th5@gmail.com",
+      "url": "mailto:Flowerf19th5@gmail.com"
+    },
+    {
+      "name": "hoaf.n.v@gmail.com",
+      "url": "mailto:hoaf.n.v@gmail.com"
+    }
+  ]
+}

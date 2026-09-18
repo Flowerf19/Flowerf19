@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="295"
+      viewBox="0 0 800 295" role="img" aria-labelledby="title desc">
+      <title id="title">RAG</title><desc id="desc">RAG system for PDF documents: hybrid retrieval (semantic + BM25), query enhancement, and intelligent reranking. Modular, multi-provider LLM/embedding support.</desc>
+      <defs><pattern id="lines" width="800" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H800" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="799" height="294" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="798" height="293" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V273" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><text x="48" y="38" font-size="14" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >From documents to knowledge</text><text x="752" y="39" font-size="13" fill="#82705c" font-weight="400" text-anchor="end" >04</text><text x="48" y="85" font-size="35" fill="#48372b" font-weight="400" text-anchor="start" >RAG</text><text x="48" y="133" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >RAG system for PDF documents: hybrid retrieval (semantic +</text><text x="48" y="164" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >BM25), query enhancement, and intelligent reranking.</text><text x="48" y="195" font-size="20" fill="#82705c" font-weight="400" text-anchor="start" >Modular, multi-provider LLM/embedding support.</text><path d="M48 231 H752" stroke="#ddc7a8"/><text x="48" y="259" font-size="15" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >PDFs · Hybrid retrieval · Reranking</text></g>
+    </svg>

@@ -1,6 +1,0 @@
-<svg width="800" height="78" viewBox="0 0 800 78" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>text{font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:15px;font-weight:500;fill:#7aa2f7;clip-path:inset(0 100% 0 0);animation-name:type;animation-fill-mode:forwards;}@keyframes type{to{clip-path:inset(0 0 0 0);}}.l0{animation-duration:1.67s;animation-delay:0.00s;animation-timing-function:steps(76);}.l1{animation-duration:1.80s;animation-delay:1.82s;animation-timing-function:steps(82);}.l2{animation-duration:0.79s;animation-delay:3.78s;animation-timing-function:steps(36);}</style>
-  <text class="l0" x="0" y="19" xml:space="preserve">   ↳ Shared long-term memory for MCP agents — one brain, many agents. Hybrid</text>
-  <text class="l1" x="0" y="45" xml:space="preserve">     BM25+vector search on Redis 8.8, local multilingual embeddings, self-expiring</text>
-  <text class="l2" x="0" y="71" xml:space="preserve">     diary model, no auth by design.</text>
-</svg>

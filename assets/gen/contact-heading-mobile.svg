@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="134"
+      viewBox="0 0 400 134" role="img" aria-labelledby="title desc">
+      <title id="title">Leave a note</title><desc id="desc">A question, an idea, or a project worth talking about.</desc>
+      <defs><pattern id="lines" width="400" height="32" patternUnits="userSpaceOnUse"></pattern></defs>
+      <rect x=".5" y=".5" width="399" height="133" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="398" height="132" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V112" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><text x="40" y="46" font-size="27" fill="#a65c43" font-weight="400" text-anchor="start" >Leave a note</text><text x="40" y="79" font-size="16" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >A question, an idea, or a project</text><text x="40" y="104" font-size="16" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >worth talking about.</text></g>
+    </svg>

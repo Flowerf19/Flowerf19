@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="388"
+      viewBox="0 0 400 388" role="img" aria-labelledby="title desc">
+      <title id="title">Nguyễn Hoà — A notebook of useful AI.</title><desc id="desc">I build personal assistants, agent memory, and retrieval tools — with room for a little curiosity.</desc>
+      <defs><pattern id="lines" width="400" height="32" patternUnits="userSpaceOnUse"><path d="M0 31.5 H400" stroke="#ddc7a8" stroke-opacity=".20"/></pattern></defs>
+      <rect x=".5" y=".5" width="399" height="387" rx="10" fill="#fbf3e4" stroke="#ddc7a8"/>
+      <rect x="1" y="1" width="398" height="386" rx="10" fill="url(#lines)"/>
+      <path d="M22 22 V366" stroke="#a65c43" stroke-opacity=".26"/>
+      <g font-family="Georgia, 'DejaVu Serif', 'Times New Roman', serif"><g transform="translate(296 178) scale(0.55)" opacity="0.09"
+      fill="none" stroke="#a65c43" stroke-width="1.5" stroke-linecap="round">
+      <path d="M8 176 Q45 94 102 9 C110 54 92 96 64 116 Q45 130 29 137"/>
+      <path d="M23 145 Q22 82 102 9 M27 132 L61 113 M33 116 L74 96
+        M42 97 L86 77 M52 78 L94 58 M64 59 L100 37
+        M30 125 L26 101 M39 104 L37 80 M49 82 L49 63 M62 62 L64 44"/>
+    </g><text x="40" y="43" font-size="12" fill="#a65c43" font-weight="400" text-anchor="start" >THE NOTEBOOK OF</text><text x="40" y="105" font-size="43" fill="#48372b" font-weight="400" text-anchor="start" >Nguyễn Hoà</text><text x="40" y="139" font-size="15" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >AI engineer · Hanoi, Vietnam</text><text x="40" y="195" font-size="23" fill="#a65c43" font-weight="400" text-anchor="start" font-style="italic" >A notebook of useful AI.</text><text x="40" y="233" font-size="18" fill="#48372b" font-weight="400" text-anchor="start" >I build personal assistants,</text><text x="40" y="261" font-size="18" fill="#48372b" font-weight="400" text-anchor="start" >agent memory, and retrieval</text><text x="40" y="289" font-size="18" fill="#48372b" font-weight="400" text-anchor="start" >tools — with room for a little</text><text x="40" y="317" font-size="18" fill="#48372b" font-weight="400" text-anchor="start" >curiosity.</text><text x="40" y="364" font-size="14" fill="#82705c" font-weight="400" text-anchor="start" font-style="italic" >@Flowerf19</text></g>
+    </svg>
